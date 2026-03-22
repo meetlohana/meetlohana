@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently pursuing Engineering in Computer Science (CSE)<br>💻 Skilled in Java and Python with growing programming knowledge<br>🔨Familiar with Git & GitHub, Firebase, Node.js, and cloud hosting<br>🔍 Shows strong interest in:<br>🤖 Artificial Intelligence (AI/ML)<br>📈 Data Science<br>🛡 Cybersecurity<br>🚀 Startup<br>🤝 Collaborates with friend: Om Kawalkar on technical projects<br>
+🎓 Currently pursuing Engineering in Computer Science (CSE)<br>💻 Skilled in Java and Python with growing programming knowledge<br>🔨Familiar with Git & GitHub, Firebase, Node.js, and cloud hosting<br>🔍 Shows strong interest in:<br>🤖 Artificial Intelligence (AI/ML)<br>📈 Data Science<br>🛡 Cybersecurity<br>🚀 Startup<br>
 
 
 ## 🌐 Socials:
